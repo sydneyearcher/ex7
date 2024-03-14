@@ -1,3 +1,4 @@
+//final
 import React, { useState } from 'react';
 import { StyleSheet, SafeAreaView, FlatList, View } from 'react-native';
 import { Input, CheckBox, Button, Text, Stack } from 'react-native-elements'; 
